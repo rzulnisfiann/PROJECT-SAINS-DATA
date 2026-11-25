@@ -25,3 +25,5 @@ DATA/
 .DS_Store
 Thumbs.db
 desktop.ini
+# Local configuration (each member has their own Drive path)
+config_local.py
